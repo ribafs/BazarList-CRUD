@@ -10,3 +10,6 @@ Content discussed :
 - HTML Form Validation.
 - HTML Table CRUD Operations.
 
+## Obs
+
+On refresh or close and open browser lost all informations.
